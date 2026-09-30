@@ -1,0 +1,4 @@
+*.stil filter=lfs diff=lfs merge=lfs -text
+*.stil.gz filter=lfs diff=lfs merge=lfs -text
+*.svf filter=lfs diff=lfs merge=lfs -text
+*.avc filter=lfs diff=lfs merge=lfs -text
